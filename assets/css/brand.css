@@ -1,0 +1,68 @@
+
+.header-contacts li i,  
+.nav-holder nav li a.active , 
+.sliding-menu a i.active  , 
+.sliding-menu a:hover , 
+.sliding-menu a:hover i, 
+.nav-title:before , 
+.sliding-menu a.back:hover:before  , 
+.scroll-nav a:hover , 
+.section-title h2 span , 
+.section-subtitle span ,
+.tooltip-info h5 ,
+.hor-scroll-nav li a.active,
+.text-carousel .slick-center .text-carousel-item:before,
+.listing-rating i,
+.custom-form label i,
+.footer-contacts li i,
+.single-page-fixed-row-link i,
+.service-item-dec,
+.text-carousel-item a.testim-link:hover
+{
+	color:#e8491d;
+}
+ .color-bg , 
+ .color-btn ,   
+ .btn:before , 
+ .btn:before ,
+ .ps-container > .ps-scrollbar-y-rail > .ps-scrollbar-y , 
+ .follow-twiit-button span ,  
+ .share-container  .share-icon span , 
+ .subcribe-form .subscribe-button   , 
+ .close-twitter:hover ,  
+ .nav-toggle span , 
+ .mouse-scroll , 
+ .social-share    , 
+ .section-title:before , 
+.close-share:hover , 
+.hor-scroll-nav li a.active:before , 
+.line-item:before , 
+.experience-inner-header:before , 
+.experience-inner-header i , 
+.custom-skillbar , 
+.skill-title:before , 
+.slick-dots li.slick-active button:before , 
+.order-wrap h3:before , 
+.inline-facts h6:before , 
+.service-box h3:before , 
+.home-coordinates:before , 
+.fet_pr-carousel-box-text h3:before  , 
+.fet_pr-carousel-counter:before , 
+.fsp-filter .gallery-filters a:after , 
+.hd-box-wrap h2:before  , 
+.inline-filter .gallery-filters  a:before , 
+.inline-filter .folio-counter:before , 
+.parallax-text h3:before , .show-case-title h3:before , 
+.accordion a.toggle span , .details-wrap h3:before  ,  
+ .small-color-separator , .audiojs .progress , 
+ .volume-control span , 
+ .volume-control span.allvolumne , .contact-form-footer p:before , .collage-image:before , .best-price .price-head , .price-link , .album-cover-title h3:before , .video-promo-text h3:before , .fw-post h2:before , .about-widget h5:after ,
+.service-item .service-item-text h3:before , 
+.main-about h2:before {
+	background:#e8491d;
+}
+#twitts-container ul li:hover .timePosted a:after {
+ 
+	border-top-color: #e8491d;
+ 
+}
